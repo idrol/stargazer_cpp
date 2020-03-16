@@ -1,0 +1,10 @@
+#pragma once
+#include "Engine\StargazerEngine.h"
+#include "Engine\Level\Level.h"
+#include "Engine\Entity\Entity.h"
+#include "Engine\Entity\EntityManager.h"
+#include "Engine\Entity\Component\Component.h"
+#include "Engine\Entity\Component\TransformComponent.h"
+#include "Engine\Entity\Component\CameraComponent.h"
+#include "Engine\Entity\Component\ModelComponent.h"
+#include "Engine\Entity\Component\SimpleKeyboardComponent.h"
